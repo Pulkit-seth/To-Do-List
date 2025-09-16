@@ -27,7 +27,7 @@ Vanilla JavaScript – Logic & interactivity
 
 📂 Project Setup
 # Clone this repository
-git clone https://github.com/yourusername/todo-app.git
+git clone https://github.com/Pulkit-seth/todo-app.git
 
 # Open index.html in your browser
 
